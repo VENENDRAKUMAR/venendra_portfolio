@@ -24,19 +24,9 @@ const servicesData = [
       ]
     },
     
+    
     {
       id: 9,
-      title: "UI/UX Designing",
-      description: "Our experts create extraordinary UI/UX design ideas consistent with the latest trends and technologies.",
-      features: [
-        "User-Centered Design Approach",
-        "Wireframing & Prototyping",
-        "Interactive & Engaging Interfaces",
-        "Mobile & Web App Designs"
-      ]
-    },
-    {
-      id: 10,
       title: "Portfolio & Landing Page Development",
       description: "Creating visually appealing, user-friendly web pages that showcase an individual's or business's skills, products, or services.",
       features: [
