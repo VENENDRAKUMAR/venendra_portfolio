@@ -23,19 +23,9 @@ const servicesData = [
         "Multi-Vendor Marketplace Support"
       ]
     },
+    
     {
       id: 9,
-      title: "Digital Marketing Services",
-      description: "We assist in enhancing brand authority and exposure. You are only one tap away from reaching your intended audience.",
-      features: [
-        "SEO & Content Marketing",
-        "Social Media Management",
-        "PPC & Google Ads Campaigns",
-        "Email & Influencer Marketing"
-      ]
-    },
-    {
-      id: 10,
       title: "UI/UX Designing",
       description: "Our experts create extraordinary UI/UX design ideas consistent with the latest trends and technologies.",
       features: [
@@ -46,7 +36,7 @@ const servicesData = [
       ]
     },
     {
-      id: 11,
+      id: 10,
       title: "Portfolio & Landing Page Development",
       description: "Creating visually appealing, user-friendly web pages that showcase an individual's or business's skills, products, or services.",
       features: [

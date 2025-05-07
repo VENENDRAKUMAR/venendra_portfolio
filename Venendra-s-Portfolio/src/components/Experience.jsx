@@ -7,14 +7,14 @@ import exp4 from "../assets/exp4.svg";
 
 const workExperience = [
   {
-    id: 4,
-    title: "Lead Frontend Engineer",
+    id: 1,
+    title: "Web Application Developer",
     desc: "Developed and maintained user-facing features using modern frontend technologies.",
     className: "md:col-span-2",
     thumbnail: exp4,
   },
     {
-      id: 1,
+      id: 2,
       title: "Frontend Engineer",
       desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
       className: "md:col-span-2",
@@ -23,18 +23,19 @@ const workExperience = [
     
     {
       id: 3,
-      title: "Freelance Web Dev Project",
+      title: "Freelance Web Developer",
       desc: "Led the dev of a Web app for a client, from initial concept to deployment.",
       className: "md:col-span-2", // change to md:col-span-2
       thumbnail:exp3 ,
     },
     {
-      id: 2,
-      title: "Founder - VBCorp",
-      desc: "As an Entrepreneur and Founder, I provided consulting and outsourcing services.",
+      id: 4,
+      title: "Founder",
+      desc: "Led the dev of a Web app for a client, from initial concept to deployment.",
       className: "md:col-span-2", // change to md:col-span-2
-      thumbnail: exp2,
+      thumbnail:exp3 ,
     },
+    
     
   ];
 
